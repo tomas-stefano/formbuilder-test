@@ -1,0 +1,7 @@
+{
+  "_id": "page.last-page",
+  "_type": "page.confirmation",
+  "heading": "Last page",
+  "lede": "You finish the form. All dogs are lovely! You choose very well!",
+  "url": "last-page"
+}

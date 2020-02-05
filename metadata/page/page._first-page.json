@@ -1,0 +1,33 @@
+{
+  "_id": "page._first-page",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page._first-page--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page._first-page--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Basset hound",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page._first-page--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Dalmatian",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page._first-page--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Beagle",
+          "value": "auto_value__3"
+        }
+      ],
+      "legend": "What is you favourite dog?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "/first-page"
+}
