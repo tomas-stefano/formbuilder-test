@@ -5,7 +5,10 @@
   "heading": "This is your start page heading",
   "lede": "This is your start page first paragraph. You can only have one paragraph here.",
   "steps": [
-    "page._first-page"
+    "page.step2",
+    "page._first-page",
+    "page.checkanswers",
+    "page.finalresult"
   ],
   "url": "/"
 }
